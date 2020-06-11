@@ -1,0 +1,577 @@
+Country_Name,Code,Year,Indicator,Metric,Value,Range
+Burundi,bi,2015,Life Expectancy,At_Birth_Both_Sexes,59.6,NA
+Burundi,bi,2014,Life Expectancy,At_Birth_Both_Sexes,59.1,NA
+Burundi,bi,2013,Life Expectancy,At_Birth_Both_Sexes,58.6,NA
+Burundi,bi,2012,Life Expectancy,At_Birth_Both_Sexes,58,NA
+Burundi,bi,2011,Life Expectancy,At_Birth_Both_Sexes,57.4,NA
+Burundi,bi,2010,Life Expectancy,At_Birth_Both_Sexes,56.8,NA
+Burundi,bi,2009,Life Expectancy,At_Birth_Both_Sexes,56.2,NA
+Burundi,bi,2008,Life Expectancy,At_Birth_Both_Sexes,55.3,NA
+Burundi,bi,2007,Life Expectancy,At_Birth_Both_Sexes,54.8,NA
+Burundi,bi,2006,Life Expectancy,At_Birth_Both_Sexes,54.1,NA
+Burundi,bi,2005,Life Expectancy,At_Birth_Both_Sexes,53.4,NA
+Burundi,bi,2004,Life Expectancy,At_Birth_Both_Sexes,52.6,NA
+Burundi,bi,2003,Life Expectancy,At_Birth_Both_Sexes,51.9,NA
+Burundi,bi,2002,Life Expectancy,At_Birth_Both_Sexes,51.5,NA
+Burundi,bi,2001,Life Expectancy,At_Birth_Both_Sexes,51.3,NA
+Burundi,bi,2000,Life Expectancy,At_Birth_Both_Sexes,50.8,NA
+Kenya,ke ,2015,Life Expectancy,At_Birth_Both_Sexes,63.4,NA
+Kenya,ke ,2014,Life Expectancy,At_Birth_Both_Sexes,62.9,NA
+Kenya,ke ,2013,Life Expectancy,At_Birth_Both_Sexes,62.6,NA
+Kenya,ke ,2012,Life Expectancy,At_Birth_Both_Sexes,62.1,NA
+Kenya,ke ,2011,Life Expectancy,At_Birth_Both_Sexes,61.2,NA
+Kenya,ke ,2010,Life Expectancy,At_Birth_Both_Sexes,60.3,NA
+Kenya,ke ,2009,Life Expectancy,At_Birth_Both_Sexes,59.1,NA
+Kenya,ke ,2008,Life Expectancy,At_Birth_Both_Sexes,57.9,NA
+Kenya,ke ,2007,Life Expectancy,At_Birth_Both_Sexes,56.8,NA
+Kenya,ke ,2006,Life Expectancy,At_Birth_Both_Sexes,55.3,NA
+Kenya,ke ,2005,Life Expectancy,At_Birth_Both_Sexes,54.1,NA
+Kenya,ke ,2004,Life Expectancy,At_Birth_Both_Sexes,53,NA
+Kenya,ke ,2003,Life Expectancy,At_Birth_Both_Sexes,52.4,NA
+Kenya,ke ,2002,Life Expectancy,At_Birth_Both_Sexes,52.1,NA
+Kenya,ke ,2001,Life Expectancy,At_Birth_Both_Sexes,51.9,NA
+Kenya,ke ,2000,Life Expectancy,At_Birth_Both_Sexes,51.9,NA
+Rwanda,rw,2015,Life Expectancy,At_Birth_Both_Sexes,66.1,NA
+Rwanda,rw,2014,Life Expectancy,At_Birth_Both_Sexes,65.7,NA
+Rwanda,rw,2013,Life Expectancy,At_Birth_Both_Sexes,65.2,NA
+Rwanda,rw,2012,Life Expectancy,At_Birth_Both_Sexes,64.6,NA
+Rwanda,rw,2011,Life Expectancy,At_Birth_Both_Sexes,63.8,NA
+Rwanda,rw,2010,Life Expectancy,At_Birth_Both_Sexes,62.8,NA
+Rwanda,rw,2009,Life Expectancy,At_Birth_Both_Sexes,61,NA
+Rwanda,rw,2008,Life Expectancy,At_Birth_Both_Sexes,60.8,NA
+Rwanda,rw,2007,Life Expectancy,At_Birth_Both_Sexes,59.6,NA
+Rwanda,rw,2006,Life Expectancy,At_Birth_Both_Sexes,57.6,NA
+Rwanda,rw,2005,Life Expectancy,At_Birth_Both_Sexes,55.3,NA
+Rwanda,rw,2004,Life Expectancy,At_Birth_Both_Sexes,53.4,NA
+Rwanda,rw,2003,Life Expectancy,At_Birth_Both_Sexes,52,NA
+Rwanda,rw,2002,Life Expectancy,At_Birth_Both_Sexes,50.7,NA
+Rwanda,rw,2001,Life Expectancy,At_Birth_Both_Sexes,48.6,NA
+Rwanda,rw,2000,Life Expectancy,At_Birth_Both_Sexes,48.3,NA
+South Sudan,ss,2015,Life Expectancy,At_Birth_Both_Sexes,57.3,NA
+South Sudan,ss,2014,Life Expectancy,At_Birth_Both_Sexes,56.6,NA
+South Sudan,ss,2013,Life Expectancy,At_Birth_Both_Sexes,56.4,NA
+South Sudan,ss,2012,Life Expectancy,At_Birth_Both_Sexes,56,NA
+South Sudan,ss,2011,Life Expectancy,At_Birth_Both_Sexes,55.4,NA
+South Sudan,ss,2010,Life Expectancy,At_Birth_Both_Sexes,55,NA
+South Sudan,ss,2009,Life Expectancy,At_Birth_Both_Sexes,54.3,NA
+South Sudan,ss,2008,Life Expectancy,At_Birth_Both_Sexes,53.6,NA
+South Sudan,ss,2007,Life Expectancy,At_Birth_Both_Sexes,53.1,NA
+South Sudan,ss,2006,Life Expectancy,At_Birth_Both_Sexes,52.5,NA
+South Sudan,ss,2005,Life Expectancy,At_Birth_Both_Sexes,51.9,NA
+South Sudan,ss,2004,Life Expectancy,At_Birth_Both_Sexes,51.4,NA
+South Sudan,ss,2003,Life Expectancy,At_Birth_Both_Sexes,50.8,NA
+South Sudan,ss,2002,Life Expectancy,At_Birth_Both_Sexes,50.2,NA
+South Sudan,ss,2001,Life Expectancy,At_Birth_Both_Sexes,49.6,NA
+South Sudan,ss,2000,Life Expectancy,At_Birth_Both_Sexes,48.9,NA
+Uganda,ug,2015,Life Expectancy,At_Birth_Both_Sexes,62.3,NA
+Uganda,ug,2014,Life Expectancy,At_Birth_Both_Sexes,61.5,NA
+Uganda,ug,2013,Life Expectancy,At_Birth_Both_Sexes,60.7,NA
+Uganda,ug,2012,Life Expectancy,At_Birth_Both_Sexes,60,NA
+Uganda,ug,2011,Life Expectancy,At_Birth_Both_Sexes,59.3,NA
+Uganda,ug,2010,Life Expectancy,At_Birth_Both_Sexes,58.4,NA
+Uganda,ug,2009,Life Expectancy,At_Birth_Both_Sexes,57.5,NA
+Uganda,ug,2008,Life Expectancy,At_Birth_Both_Sexes,56.3,NA
+Uganda,ug,2007,Life Expectancy,At_Birth_Both_Sexes,55.5,NA
+Uganda,ug,2006,Life Expectancy,At_Birth_Both_Sexes,54.9,NA
+Uganda,ug,2005,Life Expectancy,At_Birth_Both_Sexes,53.2,NA
+Uganda,ug,2004,Life Expectancy,At_Birth_Both_Sexes,51.3,NA
+Uganda,ug,2003,Life Expectancy,At_Birth_Both_Sexes,50.1,NA
+Uganda,ug,2002,Life Expectancy,At_Birth_Both_Sexes,48.8,NA
+Uganda,ug,2001,Life Expectancy,At_Birth_Both_Sexes,47.7,NA
+Uganda,ug,2000,Life Expectancy,At_Birth_Both_Sexes,46.6,NA
+United Republic of Tanzania,tz ,2015,Life Expectancy,At_Birth_Both_Sexes,61.8,NA
+United Republic of Tanzania,tz ,2014,Life Expectancy,At_Birth_Both_Sexes,60.7,NA
+United Republic of Tanzania,tz ,2013,Life Expectancy,At_Birth_Both_Sexes,59.7,NA
+United Republic of Tanzania,tz ,2012,Life Expectancy,At_Birth_Both_Sexes,58.6,NA
+United Republic of Tanzania,tz ,2011,Life Expectancy,At_Birth_Both_Sexes,58.3,NA
+United Republic of Tanzania,tz ,2010,Life Expectancy,At_Birth_Both_Sexes,57.5,NA
+United Republic of Tanzania,tz ,2009,Life Expectancy,At_Birth_Both_Sexes,56.9,NA
+United Republic of Tanzania,tz ,2008,Life Expectancy,At_Birth_Both_Sexes,56.2,NA
+United Republic of Tanzania,tz ,2007,Life Expectancy,At_Birth_Both_Sexes,54.5,NA
+United Republic of Tanzania,tz ,2006,Life Expectancy,At_Birth_Both_Sexes,53.1,NA
+United Republic of Tanzania,tz ,2005,Life Expectancy,At_Birth_Both_Sexes,52.2,NA
+United Republic of Tanzania,tz ,2004,Life Expectancy,At_Birth_Both_Sexes,51.5,NA
+United Republic of Tanzania,tz ,2003,Life Expectancy,At_Birth_Both_Sexes,50.8,NA
+United Republic of Tanzania,tz ,2002,Life Expectancy,At_Birth_Both_Sexes,50.2,NA
+United Republic of Tanzania,tz ,2001,Life Expectancy,At_Birth_Both_Sexes,49.6,NA
+United Republic of Tanzania,tz ,2000,Life Expectancy,At_Birth_Both_Sexes,49.2,NA
+Burundi,bi,2015,Life Expectancy,At_Birth_Male,57.7,NA
+Burundi,bi,2014,Life Expectancy,At_Birth_Male,57.1,NA
+Burundi,bi,2013,Life Expectancy,At_Birth_Male,56.7,NA
+Burundi,bi,2012,Life Expectancy,At_Birth_Male,56.3,NA
+Burundi,bi,2011,Life Expectancy,At_Birth_Male,55.7,NA
+Burundi,bi,2010,Life Expectancy,At_Birth_Male,55.1,NA
+Burundi,bi,2009,Life Expectancy,At_Birth_Male,54.5,NA
+Burundi,bi,2008,Life Expectancy,At_Birth_Male,53.7,NA
+Burundi,bi,2007,Life Expectancy,At_Birth_Male,53.1,NA
+Burundi,bi,2006,Life Expectancy,At_Birth_Male,52.4,NA
+Burundi,bi,2005,Life Expectancy,At_Birth_Male,51.7,NA
+Burundi,bi,2004,Life Expectancy,At_Birth_Male,50.9,NA
+Burundi,bi,2003,Life Expectancy,At_Birth_Male,50,NA
+Burundi,bi,2002,Life Expectancy,At_Birth_Male,49.5,NA
+Burundi,bi,2001,Life Expectancy,At_Birth_Male,49.3,NA
+Burundi,bi,2000,Life Expectancy,At_Birth_Male,48.6,NA
+Kenya,ke ,2015,Life Expectancy,At_Birth_Male,61.1,NA
+Kenya,ke ,2014,Life Expectancy,At_Birth_Male,60.6,NA
+Kenya,ke ,2013,Life Expectancy,At_Birth_Male,60.3,NA
+Kenya,ke ,2012,Life Expectancy,At_Birth_Male,60.2,NA
+Kenya,ke ,2011,Life Expectancy,At_Birth_Male,59.7,NA
+Kenya,ke ,2010,Life Expectancy,At_Birth_Male,58.9,NA
+Kenya,ke ,2009,Life Expectancy,At_Birth_Male,57.9,NA
+Kenya,ke ,2008,Life Expectancy,At_Birth_Male,56.8,NA
+Kenya,ke ,2007,Life Expectancy,At_Birth_Male,55.8,NA
+Kenya,ke ,2006,Life Expectancy,At_Birth_Male,54.4,NA
+Kenya,ke ,2005,Life Expectancy,At_Birth_Male,53.2,NA
+Kenya,ke ,2004,Life Expectancy,At_Birth_Male,52.2,NA
+Kenya,ke ,2003,Life Expectancy,At_Birth_Male,51.6,NA
+Kenya,ke ,2002,Life Expectancy,At_Birth_Male,51.2,NA
+Kenya,ke ,2001,Life Expectancy,At_Birth_Male,50.9,NA
+Kenya,ke ,2000,Life Expectancy,At_Birth_Male,50.8,NA
+Rwanda,rw,2015,Life Expectancy,At_Birth_Male,60.9,NA
+Rwanda,rw,2014,Life Expectancy,At_Birth_Male,60.5,NA
+Rwanda,rw,2013,Life Expectancy,At_Birth_Male,60,NA
+Rwanda,rw,2012,Life Expectancy,At_Birth_Male,59.4,NA
+Rwanda,rw,2011,Life Expectancy,At_Birth_Male,58.5,NA
+Rwanda,rw,2010,Life Expectancy,At_Birth_Male,57.5,NA
+Rwanda,rw,2009,Life Expectancy,At_Birth_Male,55.4,NA
+Rwanda,rw,2008,Life Expectancy,At_Birth_Male,55.4,NA
+Rwanda,rw,2007,Life Expectancy,At_Birth_Male,54.1,NA
+Rwanda,rw,2006,Life Expectancy,At_Birth_Male,52.3,NA
+Rwanda,rw,2005,Life Expectancy,At_Birth_Male,50.2,NA
+Rwanda,rw,2004,Life Expectancy,At_Birth_Male,48.4,NA
+Rwanda,rw,2003,Life Expectancy,At_Birth_Male,47,NA
+Rwanda,rw,2002,Life Expectancy,At_Birth_Male,45.7,NA
+Rwanda,rw,2001,Life Expectancy,At_Birth_Male,43.4,NA
+Rwanda,rw,2000,Life Expectancy,At_Birth_Male,43.3,NA
+South Sudan,ss,2015,Life Expectancy,At_Birth_Male,56.1,NA
+South Sudan,ss,2014,Life Expectancy,At_Birth_Male,55.3,NA
+South Sudan,ss,2013,Life Expectancy,At_Birth_Male,55.2,NA
+South Sudan,ss,2012,Life Expectancy,At_Birth_Male,55,NA
+South Sudan,ss,2011,Life Expectancy,At_Birth_Male,54.4,NA
+South Sudan,ss,2010,Life Expectancy,At_Birth_Male,54.1,NA
+South Sudan,ss,2009,Life Expectancy,At_Birth_Male,53.3,NA
+South Sudan,ss,2008,Life Expectancy,At_Birth_Male,52.6,NA
+South Sudan,ss,2007,Life Expectancy,At_Birth_Male,52,NA
+South Sudan,ss,2006,Life Expectancy,At_Birth_Male,51.4,NA
+South Sudan,ss,2005,Life Expectancy,At_Birth_Male,50.9,NA
+South Sudan,ss,2004,Life Expectancy,At_Birth_Male,50.3,NA
+South Sudan,ss,2003,Life Expectancy,At_Birth_Male,49.6,NA
+South Sudan,ss,2002,Life Expectancy,At_Birth_Male,49,NA
+South Sudan,ss,2001,Life Expectancy,At_Birth_Male,48.4,NA
+South Sudan,ss,2000,Life Expectancy,At_Birth_Male,47.7,NA
+Uganda,ug,2015,Life Expectancy,At_Birth_Male,60.3,NA
+Uganda,ug,2014,Life Expectancy,At_Birth_Male,59.3,NA
+Uganda,ug,2013,Life Expectancy,At_Birth_Male,59,NA
+Uganda,ug,2012,Life Expectancy,At_Birth_Male,58.7,NA
+Uganda,ug,2011,Life Expectancy,At_Birth_Male,58.1,NA
+Uganda,ug,2010,Life Expectancy,At_Birth_Male,57.2,NA
+Uganda,ug,2009,Life Expectancy,At_Birth_Male,56.3,NA
+Uganda,ug,2008,Life Expectancy,At_Birth_Male,55.1,NA
+Uganda,ug,2007,Life Expectancy,At_Birth_Male,54.3,NA
+Uganda,ug,2006,Life Expectancy,At_Birth_Male,53.7,NA
+Uganda,ug,2005,Life Expectancy,At_Birth_Male,51.9,NA
+Uganda,ug,2004,Life Expectancy,At_Birth_Male,49.9,NA
+Uganda,ug,2003,Life Expectancy,At_Birth_Male,48.8,NA
+Uganda,ug,2002,Life Expectancy,At_Birth_Male,47.4,NA
+Uganda,ug,2001,Life Expectancy,At_Birth_Male,46.4,NA
+Uganda,ug,2000,Life Expectancy,At_Birth_Male,45.1,NA
+United Republic of Tanzania,tz ,2015,Life Expectancy,At_Birth_Male,59.9,NA
+United Republic of Tanzania,tz ,2014,Life Expectancy,At_Birth_Male,58.7,NA
+United Republic of Tanzania,tz ,2013,Life Expectancy,At_Birth_Male,57.8,NA
+United Republic of Tanzania,tz ,2012,Life Expectancy,At_Birth_Male,56.9,NA
+United Republic of Tanzania,tz ,2011,Life Expectancy,At_Birth_Male,56.8,NA
+United Republic of Tanzania,tz ,2010,Life Expectancy,At_Birth_Male,56.4,NA
+United Republic of Tanzania,tz ,2009,Life Expectancy,At_Birth_Male,55.8,NA
+United Republic of Tanzania,tz ,2008,Life Expectancy,At_Birth_Male,55.2,NA
+United Republic of Tanzania,tz ,2007,Life Expectancy,At_Birth_Male,53.7,NA
+United Republic of Tanzania,tz ,2006,Life Expectancy,At_Birth_Male,52.4,NA
+United Republic of Tanzania,tz ,2005,Life Expectancy,At_Birth_Male,51.6,NA
+United Republic of Tanzania,tz ,2004,Life Expectancy,At_Birth_Male,50.8,NA
+United Republic of Tanzania,tz ,2003,Life Expectancy,At_Birth_Male,50.1,NA
+United Republic of Tanzania,tz ,2002,Life Expectancy,At_Birth_Male,49.5,NA
+United Republic of Tanzania,tz ,2001,Life Expectancy,At_Birth_Male,48.9,NA
+United Republic of Tanzania,tz ,2000,Life Expectancy,At_Birth_Male,48.4,NA
+Burundi,bi,2015,Life Expectancy,At_Birth_Female,61.6,NA
+Burundi,bi,2014,Life Expectancy,At_Birth_Female,61.1,NA
+Burundi,bi,2013,Life Expectancy,At_Birth_Female,60.5,NA
+Burundi,bi,2012,Life Expectancy,At_Birth_Female,59.8,NA
+Burundi,bi,2011,Life Expectancy,At_Birth_Female,59.2,NA
+Burundi,bi,2010,Life Expectancy,At_Birth_Female,58.5,NA
+Burundi,bi,2009,Life Expectancy,At_Birth_Female,57.9,NA
+Burundi,bi,2008,Life Expectancy,At_Birth_Female,57.1,NA
+Burundi,bi,2007,Life Expectancy,At_Birth_Female,56.4,NA
+Burundi,bi,2006,Life Expectancy,At_Birth_Female,55.8,NA
+Burundi,bi,2005,Life Expectancy,At_Birth_Female,55.1,NA
+Burundi,bi,2004,Life Expectancy,At_Birth_Female,54.4,NA
+Burundi,bi,2003,Life Expectancy,At_Birth_Female,53.8,NA
+Burundi,bi,2002,Life Expectancy,At_Birth_Female,53.5,NA
+Burundi,bi,2001,Life Expectancy,At_Birth_Female,53.3,NA
+Burundi,bi,2000,Life Expectancy,At_Birth_Female,53,NA
+Kenya,ke ,2015,Life Expectancy,At_Birth_Female,65.8,NA
+Kenya,ke ,2014,Life Expectancy,At_Birth_Female,65.3,NA
+Kenya,ke ,2013,Life Expectancy,At_Birth_Female,65,NA
+Kenya,ke ,2012,Life Expectancy,At_Birth_Female,64.2,NA
+Kenya,ke ,2011,Life Expectancy,At_Birth_Female,62.8,NA
+Kenya,ke ,2010,Life Expectancy,At_Birth_Female,61.7,NA
+Kenya,ke ,2009,Life Expectancy,At_Birth_Female,60.3,NA
+Kenya,ke ,2008,Life Expectancy,At_Birth_Female,59,NA
+Kenya,ke ,2007,Life Expectancy,At_Birth_Female,57.9,NA
+Kenya,ke ,2006,Life Expectancy,At_Birth_Female,56.2,NA
+Kenya,ke ,2005,Life Expectancy,At_Birth_Female,54.9,NA
+Kenya,ke ,2004,Life Expectancy,At_Birth_Female,53.7,NA
+Kenya,ke ,2003,Life Expectancy,At_Birth_Female,53.3,NA
+Kenya,ke ,2002,Life Expectancy,At_Birth_Female,53,NA
+Kenya,ke ,2001,Life Expectancy,At_Birth_Female,52.9,NA
+Kenya,ke ,2000,Life Expectancy,At_Birth_Female,53,NA
+Rwanda,rw,2015,Life Expectancy,At_Birth_Female,71.1,NA
+Rwanda,rw,2014,Life Expectancy,At_Birth_Female,70.8,NA
+Rwanda,rw,2013,Life Expectancy,At_Birth_Female,70.3,NA
+Rwanda,rw,2012,Life Expectancy,At_Birth_Female,69.8,NA
+Rwanda,rw,2011,Life Expectancy,At_Birth_Female,69.1,NA
+Rwanda,rw,2010,Life Expectancy,At_Birth_Female,68.1,NA
+Rwanda,rw,2009,Life Expectancy,At_Birth_Female,66.7,NA
+Rwanda,rw,2008,Life Expectancy,At_Birth_Female,66.2,NA
+Rwanda,rw,2007,Life Expectancy,At_Birth_Female,65.1,NA
+Rwanda,rw,2006,Life Expectancy,At_Birth_Female,63.1,NA
+Rwanda,rw,2005,Life Expectancy,At_Birth_Female,60.6,NA
+Rwanda,rw,2004,Life Expectancy,At_Birth_Female,58.6,NA
+Rwanda,rw,2003,Life Expectancy,At_Birth_Female,57.3,NA
+Rwanda,rw,2002,Life Expectancy,At_Birth_Female,56,NA
+Rwanda,rw,2001,Life Expectancy,At_Birth_Female,54.4,NA
+Rwanda,rw,2000,Life Expectancy,At_Birth_Female,53.8,NA
+South Sudan,ss,2015,Life Expectancy,At_Birth_Female,58.6,NA
+South Sudan,ss,2014,Life Expectancy,At_Birth_Female,58,NA
+South Sudan,ss,2013,Life Expectancy,At_Birth_Female,57.5,NA
+South Sudan,ss,2012,Life Expectancy,At_Birth_Female,57.1,NA
+South Sudan,ss,2011,Life Expectancy,At_Birth_Female,56.5,NA
+South Sudan,ss,2010,Life Expectancy,At_Birth_Female,56,NA
+South Sudan,ss,2009,Life Expectancy,At_Birth_Female,55.3,NA
+South Sudan,ss,2008,Life Expectancy,At_Birth_Female,54.7,NA
+South Sudan,ss,2007,Life Expectancy,At_Birth_Female,54.1,NA
+South Sudan,ss,2006,Life Expectancy,At_Birth_Female,53.6,NA
+South Sudan,ss,2005,Life Expectancy,At_Birth_Female,53,NA
+South Sudan,ss,2004,Life Expectancy,At_Birth_Female,52.5,NA
+South Sudan,ss,2003,Life Expectancy,At_Birth_Female,52,NA
+South Sudan,ss,2002,Life Expectancy,At_Birth_Female,51.4,NA
+South Sudan,ss,2001,Life Expectancy,At_Birth_Female,50.8,NA
+South Sudan,ss,2000,Life Expectancy,At_Birth_Female,50.2,NA
+Uganda,ug,2015,Life Expectancy,At_Birth_Female,64.3,NA
+Uganda,ug,2014,Life Expectancy,At_Birth_Female,63.7,NA
+Uganda,ug,2013,Life Expectancy,At_Birth_Female,62.4,NA
+Uganda,ug,2012,Life Expectancy,At_Birth_Female,61.1,NA
+Uganda,ug,2011,Life Expectancy,At_Birth_Female,60.4,NA
+Uganda,ug,2010,Life Expectancy,At_Birth_Female,59.5,NA
+Uganda,ug,2009,Life Expectancy,At_Birth_Female,58.6,NA
+Uganda,ug,2008,Life Expectancy,At_Birth_Female,57.4,NA
+Uganda,ug,2007,Life Expectancy,At_Birth_Female,56.6,NA
+Uganda,ug,2006,Life Expectancy,At_Birth_Female,56.2,NA
+Uganda,ug,2005,Life Expectancy,At_Birth_Female,54.4,NA
+Uganda,ug,2004,Life Expectancy,At_Birth_Female,52.5,NA
+Uganda,ug,2003,Life Expectancy,At_Birth_Female,51.3,NA
+Uganda,ug,2002,Life Expectancy,At_Birth_Female,50.1,NA
+Uganda,ug,2001,Life Expectancy,At_Birth_Female,49,NA
+Uganda,ug,2000,Life Expectancy,At_Birth_Female,48,NA
+United Republic of Tanzania,tz ,2015,Life Expectancy,At_Birth_Female,63.8,NA
+United Republic of Tanzania,tz ,2014,Life Expectancy,At_Birth_Female,62.8,NA
+United Republic of Tanzania,tz ,2013,Life Expectancy,At_Birth_Female,61.7,NA
+United Republic of Tanzania,tz ,2012,Life Expectancy,At_Birth_Female,60.3,NA
+United Republic of Tanzania,tz ,2011,Life Expectancy,At_Birth_Female,59.8,NA
+United Republic of Tanzania,tz ,2010,Life Expectancy,At_Birth_Female,58.6,NA
+United Republic of Tanzania,tz ,2009,Life Expectancy,At_Birth_Female,57.9,NA
+United Republic of Tanzania,tz ,2008,Life Expectancy,At_Birth_Female,57.2,NA
+United Republic of Tanzania,tz ,2007,Life Expectancy,At_Birth_Female,55.3,NA
+United Republic of Tanzania,tz ,2006,Life Expectancy,At_Birth_Female,53.8,NA
+United Republic of Tanzania,tz ,2005,Life Expectancy,At_Birth_Female,52.9,NA
+United Republic of Tanzania,tz ,2004,Life Expectancy,At_Birth_Female,52.2,NA
+United Republic of Tanzania,tz ,2003,Life Expectancy,At_Birth_Female,51.5,NA
+United Republic of Tanzania,tz ,2002,Life Expectancy,At_Birth_Female,50.9,NA
+United Republic of Tanzania,tz ,2001,Life Expectancy,At_Birth_Female,50.4,NA
+United Republic of Tanzania,tz ,2000,Life Expectancy,At_Birth_Female,50,NA
+Burundi,bi,2015,Life Expectancy,At_Age_60_Both_Sexes,16.5,NA
+Burundi,bi,2014,Life Expectancy,At_Age_60_Both_Sexes,16.5,NA
+Burundi,bi,2013,Life Expectancy,At_Age_60_Both_Sexes,16.4,NA
+Burundi,bi,2012,Life Expectancy,At_Age_60_Both_Sexes,16.3,NA
+Burundi,bi,2011,Life Expectancy,At_Age_60_Both_Sexes,16.3,NA
+Burundi,bi,2010,Life Expectancy,At_Age_60_Both_Sexes,16.2,NA
+Burundi,bi,2009,Life Expectancy,At_Age_60_Both_Sexes,16.1,NA
+Burundi,bi,2008,Life Expectancy,At_Age_60_Both_Sexes,16,NA
+Burundi,bi,2007,Life Expectancy,At_Age_60_Both_Sexes,15.9,NA
+Burundi,bi,2006,Life Expectancy,At_Age_60_Both_Sexes,15.9,NA
+Burundi,bi,2005,Life Expectancy,At_Age_60_Both_Sexes,15.8,NA
+Burundi,bi,2004,Life Expectancy,At_Age_60_Both_Sexes,15.7,NA
+Burundi,bi,2003,Life Expectancy,At_Age_60_Both_Sexes,15.7,NA
+Burundi,bi,2002,Life Expectancy,At_Age_60_Both_Sexes,15.6,NA
+Burundi,bi,2001,Life Expectancy,At_Age_60_Both_Sexes,15.6,NA
+Burundi,bi,2000,Life Expectancy,At_Age_60_Both_Sexes,15.6,NA
+Kenya,ke ,2015,Life Expectancy,At_Age_60_Both_Sexes,16.9,NA
+Kenya,ke ,2014,Life Expectancy,At_Age_60_Both_Sexes,16.9,NA
+Kenya,ke ,2013,Life Expectancy,At_Age_60_Both_Sexes,16.8,NA
+Kenya,ke ,2012,Life Expectancy,At_Age_60_Both_Sexes,16.7,NA
+Kenya,ke ,2011,Life Expectancy,At_Age_60_Both_Sexes,16.7,NA
+Kenya,ke ,2010,Life Expectancy,At_Age_60_Both_Sexes,16.6,NA
+Kenya,ke ,2009,Life Expectancy,At_Age_60_Both_Sexes,16.5,NA
+Kenya,ke ,2008,Life Expectancy,At_Age_60_Both_Sexes,16.4,NA
+Kenya,ke ,2007,Life Expectancy,At_Age_60_Both_Sexes,16.4,NA
+Kenya,ke ,2006,Life Expectancy,At_Age_60_Both_Sexes,16.3,NA
+Kenya,ke ,2005,Life Expectancy,At_Age_60_Both_Sexes,16.2,NA
+Kenya,ke ,2004,Life Expectancy,At_Age_60_Both_Sexes,16.1,NA
+Kenya,ke ,2003,Life Expectancy,At_Age_60_Both_Sexes,16.1,NA
+Kenya,ke ,2002,Life Expectancy,At_Age_60_Both_Sexes,16,NA
+Kenya,ke ,2001,Life Expectancy,At_Age_60_Both_Sexes,16,NA
+Kenya,ke ,2000,Life Expectancy,At_Age_60_Both_Sexes,16,NA
+Rwanda,rw,2015,Life Expectancy,At_Age_60_Both_Sexes,18,NA
+Rwanda,rw,2014,Life Expectancy,At_Age_60_Both_Sexes,18,NA
+Rwanda,rw,2013,Life Expectancy,At_Age_60_Both_Sexes,17.9,NA
+Rwanda,rw,2012,Life Expectancy,At_Age_60_Both_Sexes,17.8,NA
+Rwanda,rw,2011,Life Expectancy,At_Age_60_Both_Sexes,17.7,NA
+Rwanda,rw,2010,Life Expectancy,At_Age_60_Both_Sexes,17.6,NA
+Rwanda,rw,2009,Life Expectancy,At_Age_60_Both_Sexes,17.4,NA
+Rwanda,rw,2008,Life Expectancy,At_Age_60_Both_Sexes,17.3,NA
+Rwanda,rw,2007,Life Expectancy,At_Age_60_Both_Sexes,17.1,NA
+Rwanda,rw,2006,Life Expectancy,At_Age_60_Both_Sexes,16.9,NA
+Rwanda,rw,2005,Life Expectancy,At_Age_60_Both_Sexes,16.7,NA
+Rwanda,rw,2004,Life Expectancy,At_Age_60_Both_Sexes,16.4,NA
+Rwanda,rw,2003,Life Expectancy,At_Age_60_Both_Sexes,16.3,NA
+Rwanda,rw,2002,Life Expectancy,At_Age_60_Both_Sexes,16.1,NA
+Rwanda,rw,2001,Life Expectancy,At_Age_60_Both_Sexes,15.9,NA
+Rwanda,rw,2000,Life Expectancy,At_Age_60_Both_Sexes,15.8,NA
+South Sudan,ss,2015,Life Expectancy,At_Age_60_Both_Sexes,16.5,NA
+South Sudan,ss,2014,Life Expectancy,At_Age_60_Both_Sexes,16.5,NA
+South Sudan,ss,2013,Life Expectancy,At_Age_60_Both_Sexes,16.4,NA
+South Sudan,ss,2012,Life Expectancy,At_Age_60_Both_Sexes,16.4,NA
+South Sudan,ss,2011,Life Expectancy,At_Age_60_Both_Sexes,16.3,NA
+South Sudan,ss,2010,Life Expectancy,At_Age_60_Both_Sexes,16.2,NA
+South Sudan,ss,2009,Life Expectancy,At_Age_60_Both_Sexes,16.1,NA
+South Sudan,ss,2008,Life Expectancy,At_Age_60_Both_Sexes,15.9,NA
+South Sudan,ss,2007,Life Expectancy,At_Age_60_Both_Sexes,15.8,NA
+South Sudan,ss,2006,Life Expectancy,At_Age_60_Both_Sexes,15.7,NA
+South Sudan,ss,2005,Life Expectancy,At_Age_60_Both_Sexes,15.7,NA
+South Sudan,ss,2004,Life Expectancy,At_Age_60_Both_Sexes,15.6,NA
+South Sudan,ss,2003,Life Expectancy,At_Age_60_Both_Sexes,15.5,NA
+South Sudan,ss,2002,Life Expectancy,At_Age_60_Both_Sexes,15.4,NA
+South Sudan,ss,2001,Life Expectancy,At_Age_60_Both_Sexes,15.3,NA
+South Sudan,ss,2000,Life Expectancy,At_Age_60_Both_Sexes,15.2,NA
+Uganda,ug,2015,Life Expectancy,At_Age_60_Both_Sexes,17.3,NA
+Uganda,ug,2014,Life Expectancy,At_Age_60_Both_Sexes,17.2,NA
+Uganda,ug,2013,Life Expectancy,At_Age_60_Both_Sexes,17.2,NA
+Uganda,ug,2012,Life Expectancy,At_Age_60_Both_Sexes,17.1,NA
+Uganda,ug,2011,Life Expectancy,At_Age_60_Both_Sexes,17.1,NA
+Uganda,ug,2010,Life Expectancy,At_Age_60_Both_Sexes,17,NA
+Uganda,ug,2009,Life Expectancy,At_Age_60_Both_Sexes,16.9,NA
+Uganda,ug,2008,Life Expectancy,At_Age_60_Both_Sexes,16.8,NA
+Uganda,ug,2007,Life Expectancy,At_Age_60_Both_Sexes,16.7,NA
+Uganda,ug,2006,Life Expectancy,At_Age_60_Both_Sexes,16.6,NA
+Uganda,ug,2005,Life Expectancy,At_Age_60_Both_Sexes,16.4,NA
+Uganda,ug,2004,Life Expectancy,At_Age_60_Both_Sexes,16.2,NA
+Uganda,ug,2003,Life Expectancy,At_Age_60_Both_Sexes,16,NA
+Uganda,ug,2002,Life Expectancy,At_Age_60_Both_Sexes,15.8,NA
+Uganda,ug,2001,Life Expectancy,At_Age_60_Both_Sexes,15.7,NA
+Uganda,ug,2000,Life Expectancy,At_Age_60_Both_Sexes,15.5,NA
+United Republic of Tanzania,tz ,2015,Life Expectancy,At_Age_60_Both_Sexes,16.4,NA
+United Republic of Tanzania,tz ,2014,Life Expectancy,At_Age_60_Both_Sexes,16.3,NA
+United Republic of Tanzania,tz ,2013,Life Expectancy,At_Age_60_Both_Sexes,16.1,NA
+United Republic of Tanzania,tz ,2012,Life Expectancy,At_Age_60_Both_Sexes,16,NA
+United Republic of Tanzania,tz ,2011,Life Expectancy,At_Age_60_Both_Sexes,15.9,NA
+United Republic of Tanzania,tz ,2010,Life Expectancy,At_Age_60_Both_Sexes,15.9,NA
+United Republic of Tanzania,tz ,2009,Life Expectancy,At_Age_60_Both_Sexes,15.8,NA
+United Republic of Tanzania,tz ,2008,Life Expectancy,At_Age_60_Both_Sexes,15.7,NA
+United Republic of Tanzania,tz ,2007,Life Expectancy,At_Age_60_Both_Sexes,15.5,NA
+United Republic of Tanzania,tz ,2006,Life Expectancy,At_Age_60_Both_Sexes,15.4,NA
+United Republic of Tanzania,tz ,2005,Life Expectancy,At_Age_60_Both_Sexes,15.3,NA
+United Republic of Tanzania,tz ,2004,Life Expectancy,At_Age_60_Both_Sexes,15.2,NA
+United Republic of Tanzania,tz ,2003,Life Expectancy,At_Age_60_Both_Sexes,15.1,NA
+United Republic of Tanzania,tz ,2002,Life Expectancy,At_Age_60_Both_Sexes,15,NA
+United Republic of Tanzania,tz ,2001,Life Expectancy,At_Age_60_Both_Sexes,14.9,NA
+United Republic of Tanzania,tz ,2000,Life Expectancy,At_Age_60_Both_Sexes,14.9,NA
+Burundi,bi,2015,Life Expectancy,At_Age_60_Male,15.8,NA
+Burundi,bi,2014,Life Expectancy,At_Age_60_Male,15.7,NA
+Burundi,bi,2013,Life Expectancy,At_Age_60_Male,15.7,NA
+Burundi,bi,2012,Life Expectancy,At_Age_60_Male,15.7,NA
+Burundi,bi,2011,Life Expectancy,At_Age_60_Male,15.6,NA
+Burundi,bi,2010,Life Expectancy,At_Age_60_Male,15.5,NA
+Burundi,bi,2009,Life Expectancy,At_Age_60_Male,15.4,NA
+Burundi,bi,2008,Life Expectancy,At_Age_60_Male,15.3,NA
+Burundi,bi,2007,Life Expectancy,At_Age_60_Male,15.2,NA
+Burundi,bi,2006,Life Expectancy,At_Age_60_Male,15.2,NA
+Burundi,bi,2005,Life Expectancy,At_Age_60_Male,15.1,NA
+Burundi,bi,2004,Life Expectancy,At_Age_60_Male,15,NA
+Burundi,bi,2003,Life Expectancy,At_Age_60_Male,15,NA
+Burundi,bi,2002,Life Expectancy,At_Age_60_Male,14.9,NA
+Burundi,bi,2001,Life Expectancy,At_Age_60_Male,14.9,NA
+Burundi,bi,2000,Life Expectancy,At_Age_60_Male,14.8,NA
+Kenya,ke ,2015,Life Expectancy,At_Age_60_Male,16.2,NA
+Kenya,ke ,2014,Life Expectancy,At_Age_60_Male,16.1,NA
+Kenya,ke ,2013,Life Expectancy,At_Age_60_Male,16.1,NA
+Kenya,ke ,2012,Life Expectancy,At_Age_60_Male,16,NA
+Kenya,ke ,2011,Life Expectancy,At_Age_60_Male,16,NA
+Kenya,ke ,2010,Life Expectancy,At_Age_60_Male,15.9,NA
+Kenya,ke ,2009,Life Expectancy,At_Age_60_Male,15.8,NA
+Kenya,ke ,2008,Life Expectancy,At_Age_60_Male,15.7,NA
+Kenya,ke ,2007,Life Expectancy,At_Age_60_Male,15.7,NA
+Kenya,ke ,2006,Life Expectancy,At_Age_60_Male,15.6,NA
+Kenya,ke ,2005,Life Expectancy,At_Age_60_Male,15.5,NA
+Kenya,ke ,2004,Life Expectancy,At_Age_60_Male,15.3,NA
+Kenya,ke ,2003,Life Expectancy,At_Age_60_Male,15.3,NA
+Kenya,ke ,2002,Life Expectancy,At_Age_60_Male,15.2,NA
+Kenya,ke ,2001,Life Expectancy,At_Age_60_Male,15.2,NA
+Kenya,ke ,2000,Life Expectancy,At_Age_60_Male,15.2,NA
+Rwanda,rw,2015,Life Expectancy,At_Age_60_Male,16,NA
+Rwanda,rw,2014,Life Expectancy,At_Age_60_Male,16,NA
+Rwanda,rw,2013,Life Expectancy,At_Age_60_Male,15.9,NA
+Rwanda,rw,2012,Life Expectancy,At_Age_60_Male,15.8,NA
+Rwanda,rw,2011,Life Expectancy,At_Age_60_Male,15.7,NA
+Rwanda,rw,2010,Life Expectancy,At_Age_60_Male,15.6,NA
+Rwanda,rw,2009,Life Expectancy,At_Age_60_Male,15.3,NA
+Rwanda,rw,2008,Life Expectancy,At_Age_60_Male,15.3,NA
+Rwanda,rw,2007,Life Expectancy,At_Age_60_Male,15.1,NA
+Rwanda,rw,2006,Life Expectancy,At_Age_60_Male,14.9,NA
+Rwanda,rw,2005,Life Expectancy,At_Age_60_Male,14.6,NA
+Rwanda,rw,2004,Life Expectancy,At_Age_60_Male,14.4,NA
+Rwanda,rw,2003,Life Expectancy,At_Age_60_Male,14.2,NA
+Rwanda,rw,2002,Life Expectancy,At_Age_60_Male,14,NA
+Rwanda,rw,2001,Life Expectancy,At_Age_60_Male,13.8,NA
+Rwanda,rw,2000,Life Expectancy,At_Age_60_Male,13.7,NA
+South Sudan,ss,2015,Life Expectancy,At_Age_60_Male,16,NA
+South Sudan,ss,2014,Life Expectancy,At_Age_60_Male,15.9,NA
+South Sudan,ss,2013,Life Expectancy,At_Age_60_Male,15.9,NA
+South Sudan,ss,2012,Life Expectancy,At_Age_60_Male,15.8,NA
+South Sudan,ss,2011,Life Expectancy,At_Age_60_Male,15.7,NA
+South Sudan,ss,2010,Life Expectancy,At_Age_60_Male,15.6,NA
+South Sudan,ss,2009,Life Expectancy,At_Age_60_Male,15.5,NA
+South Sudan,ss,2008,Life Expectancy,At_Age_60_Male,15.4,NA
+South Sudan,ss,2007,Life Expectancy,At_Age_60_Male,15.3,NA
+South Sudan,ss,2006,Life Expectancy,At_Age_60_Male,15.2,NA
+South Sudan,ss,2005,Life Expectancy,At_Age_60_Male,15.1,NA
+South Sudan,ss,2004,Life Expectancy,At_Age_60_Male,15,NA
+South Sudan,ss,2003,Life Expectancy,At_Age_60_Male,14.9,NA
+South Sudan,ss,2002,Life Expectancy,At_Age_60_Male,14.8,NA
+South Sudan,ss,2001,Life Expectancy,At_Age_60_Male,14.8,NA
+South Sudan,ss,2000,Life Expectancy,At_Age_60_Male,14.7,NA
+Uganda,ug,2015,Life Expectancy,At_Age_60_Male,16.6,NA
+Uganda,ug,2014,Life Expectancy,At_Age_60_Male,16.5,NA
+Uganda,ug,2013,Life Expectancy,At_Age_60_Male,16.5,NA
+Uganda,ug,2012,Life Expectancy,At_Age_60_Male,16.5,NA
+Uganda,ug,2011,Life Expectancy,At_Age_60_Male,16.4,NA
+Uganda,ug,2010,Life Expectancy,At_Age_60_Male,16.3,NA
+Uganda,ug,2009,Life Expectancy,At_Age_60_Male,16.3,NA
+Uganda,ug,2008,Life Expectancy,At_Age_60_Male,16.1,NA
+Uganda,ug,2007,Life Expectancy,At_Age_60_Male,16.1,NA
+Uganda,ug,2006,Life Expectancy,At_Age_60_Male,16,NA
+Uganda,ug,2005,Life Expectancy,At_Age_60_Male,15.8,NA
+Uganda,ug,2004,Life Expectancy,At_Age_60_Male,15.5,NA
+Uganda,ug,2003,Life Expectancy,At_Age_60_Male,15.4,NA
+Uganda,ug,2002,Life Expectancy,At_Age_60_Male,15.2,NA
+Uganda,ug,2001,Life Expectancy,At_Age_60_Male,15,NA
+Uganda,ug,2000,Life Expectancy,At_Age_60_Male,14.8,NA
+United Republic of Tanzania,tz ,2015,Life Expectancy,At_Age_60_Male,15.7,NA
+United Republic of Tanzania,tz ,2014,Life Expectancy,At_Age_60_Male,15.5,NA
+United Republic of Tanzania,tz ,2013,Life Expectancy,At_Age_60_Male,15.4,NA
+United Republic of Tanzania,tz ,2012,Life Expectancy,At_Age_60_Male,15.3,NA
+United Republic of Tanzania,tz ,2011,Life Expectancy,At_Age_60_Male,15.2,NA
+United Republic of Tanzania,tz ,2010,Life Expectancy,At_Age_60_Male,15.2,NA
+United Republic of Tanzania,tz ,2009,Life Expectancy,At_Age_60_Male,15.2,NA
+United Republic of Tanzania,tz ,2008,Life Expectancy,At_Age_60_Male,15.1,NA
+United Republic of Tanzania,tz ,2007,Life Expectancy,At_Age_60_Male,14.9,NA
+United Republic of Tanzania,tz ,2006,Life Expectancy,At_Age_60_Male,14.8,NA
+United Republic of Tanzania,tz ,2005,Life Expectancy,At_Age_60_Male,14.7,NA
+United Republic of Tanzania,tz ,2004,Life Expectancy,At_Age_60_Male,14.6,NA
+United Republic of Tanzania,tz ,2003,Life Expectancy,At_Age_60_Male,14.5,NA
+United Republic of Tanzania,tz ,2002,Life Expectancy,At_Age_60_Male,14.4,NA
+United Republic of Tanzania,tz ,2001,Life Expectancy,At_Age_60_Male,14.3,NA
+United Republic of Tanzania,tz ,2000,Life Expectancy,At_Age_60_Male,14.2,NA
+Burundi,bi,2015,Life Expectancy,At_Age_60_Female,17.2,NA
+Burundi,bi,2014,Life Expectancy,At_Age_60_Female,17.1,NA
+Burundi,bi,2013,Life Expectancy,At_Age_60_Female,17.1,NA
+Burundi,bi,2012,Life Expectancy,At_Age_60_Female,17,NA
+Burundi,bi,2011,Life Expectancy,At_Age_60_Female,16.9,NA
+Burundi,bi,2010,Life Expectancy,At_Age_60_Female,16.8,NA
+Burundi,bi,2009,Life Expectancy,At_Age_60_Female,16.7,NA
+Burundi,bi,2008,Life Expectancy,At_Age_60_Female,16.7,NA
+Burundi,bi,2007,Life Expectancy,At_Age_60_Female,16.6,NA
+Burundi,bi,2006,Life Expectancy,At_Age_60_Female,16.5,NA
+Burundi,bi,2005,Life Expectancy,At_Age_60_Female,16.4,NA
+Burundi,bi,2004,Life Expectancy,At_Age_60_Female,16.4,NA
+Burundi,bi,2003,Life Expectancy,At_Age_60_Female,16.3,NA
+Burundi,bi,2002,Life Expectancy,At_Age_60_Female,16.3,NA
+Burundi,bi,2001,Life Expectancy,At_Age_60_Female,16.2,NA
+Burundi,bi,2000,Life Expectancy,At_Age_60_Female,16.2,NA
+Kenya,ke ,2015,Life Expectancy,At_Age_60_Female,17.6,NA
+Kenya,ke ,2014,Life Expectancy,At_Age_60_Female,17.5,NA
+Kenya,ke ,2013,Life Expectancy,At_Age_60_Female,17.5,NA
+Kenya,ke ,2012,Life Expectancy,At_Age_60_Female,17.4,NA
+Kenya,ke ,2011,Life Expectancy,At_Age_60_Female,17.3,NA
+Kenya,ke ,2010,Life Expectancy,At_Age_60_Female,17.2,NA
+Kenya,ke ,2009,Life Expectancy,At_Age_60_Female,17.1,NA
+Kenya,ke ,2008,Life Expectancy,At_Age_60_Female,17,NA
+Kenya,ke ,2007,Life Expectancy,At_Age_60_Female,17,NA
+Kenya,ke ,2006,Life Expectancy,At_Age_60_Female,17,NA
+Kenya,ke ,2005,Life Expectancy,At_Age_60_Female,16.9,NA
+Kenya,ke ,2004,Life Expectancy,At_Age_60_Female,16.9,NA
+Kenya,ke ,2003,Life Expectancy,At_Age_60_Female,16.8,NA
+Kenya,ke ,2002,Life Expectancy,At_Age_60_Female,16.8,NA
+Kenya,ke ,2001,Life Expectancy,At_Age_60_Female,16.8,NA
+Kenya,ke ,2000,Life Expectancy,At_Age_60_Female,16.7,NA
+Rwanda,rw,2015,Life Expectancy,At_Age_60_Female,19.7,NA
+Rwanda,rw,2014,Life Expectancy,At_Age_60_Female,19.6,NA
+Rwanda,rw,2013,Life Expectancy,At_Age_60_Female,19.6,NA
+Rwanda,rw,2012,Life Expectancy,At_Age_60_Female,19.5,NA
+Rwanda,rw,2011,Life Expectancy,At_Age_60_Female,19.4,NA
+Rwanda,rw,2010,Life Expectancy,At_Age_60_Female,19.3,NA
+Rwanda,rw,2009,Life Expectancy,At_Age_60_Female,19.2,NA
+Rwanda,rw,2008,Life Expectancy,At_Age_60_Female,19.1,NA
+Rwanda,rw,2007,Life Expectancy,At_Age_60_Female,19,NA
+Rwanda,rw,2006,Life Expectancy,At_Age_60_Female,18.8,NA
+Rwanda,rw,2005,Life Expectancy,At_Age_60_Female,18.6,NA
+Rwanda,rw,2004,Life Expectancy,At_Age_60_Female,18.4,NA
+Rwanda,rw,2003,Life Expectancy,At_Age_60_Female,18.3,NA
+Rwanda,rw,2002,Life Expectancy,At_Age_60_Female,18.2,NA
+Rwanda,rw,2001,Life Expectancy,At_Age_60_Female,18.1,NA
+Rwanda,rw,2000,Life Expectancy,At_Age_60_Female,18,NA
+South Sudan,ss,2015,Life Expectancy,At_Age_60_Female,17,NA
+South Sudan,ss,2014,Life Expectancy,At_Age_60_Female,17,NA
+South Sudan,ss,2013,Life Expectancy,At_Age_60_Female,16.9,NA
+South Sudan,ss,2012,Life Expectancy,At_Age_60_Female,16.9,NA
+South Sudan,ss,2011,Life Expectancy,At_Age_60_Female,16.8,NA
+South Sudan,ss,2010,Life Expectancy,At_Age_60_Female,16.7,NA
+South Sudan,ss,2009,Life Expectancy,At_Age_60_Female,16.6,NA
+South Sudan,ss,2008,Life Expectancy,At_Age_60_Female,16.5,NA
+South Sudan,ss,2007,Life Expectancy,At_Age_60_Female,16.4,NA
+South Sudan,ss,2006,Life Expectancy,At_Age_60_Female,16.3,NA
+South Sudan,ss,2005,Life Expectancy,At_Age_60_Female,16.2,NA
+South Sudan,ss,2004,Life Expectancy,At_Age_60_Female,16.1,NA
+South Sudan,ss,2003,Life Expectancy,At_Age_60_Female,16,NA
+South Sudan,ss,2002,Life Expectancy,At_Age_60_Female,15.9,NA
+South Sudan,ss,2001,Life Expectancy,At_Age_60_Female,15.8,NA
+South Sudan,ss,2000,Life Expectancy,At_Age_60_Female,15.8,NA
+Uganda,ug,2015,Life Expectancy,At_Age_60_Female,17.9,NA
+Uganda,ug,2014,Life Expectancy,At_Age_60_Female,17.9,NA
+Uganda,ug,2013,Life Expectancy,At_Age_60_Female,17.8,NA
+Uganda,ug,2012,Life Expectancy,At_Age_60_Female,17.7,NA
+Uganda,ug,2011,Life Expectancy,At_Age_60_Female,17.6,NA
+Uganda,ug,2010,Life Expectancy,At_Age_60_Female,17.5,NA
+Uganda,ug,2009,Life Expectancy,At_Age_60_Female,17.4,NA
+Uganda,ug,2008,Life Expectancy,At_Age_60_Female,17.3,NA
+Uganda,ug,2007,Life Expectancy,At_Age_60_Female,17.3,NA
+Uganda,ug,2006,Life Expectancy,At_Age_60_Female,17.2,NA
+Uganda,ug,2005,Life Expectancy,At_Age_60_Female,17,NA
+Uganda,ug,2004,Life Expectancy,At_Age_60_Female,16.8,NA
+Uganda,ug,2003,Life Expectancy,At_Age_60_Female,16.6,NA
+Uganda,ug,2002,Life Expectancy,At_Age_60_Female,16.5,NA
+Uganda,ug,2001,Life Expectancy,At_Age_60_Female,16.3,NA
+Uganda,ug,2000,Life Expectancy,At_Age_60_Female,16.1,NA
+United Republic of Tanzania,tz ,2015,Life Expectancy,At_Age_60_Female,17.1,NA
+United Republic of Tanzania,tz ,2014,Life Expectancy,At_Age_60_Female,17,NA
+United Republic of Tanzania,tz ,2013,Life Expectancy,At_Age_60_Female,16.8,NA
+United Republic of Tanzania,tz ,2012,Life Expectancy,At_Age_60_Female,16.7,NA
+United Republic of Tanzania,tz ,2011,Life Expectancy,At_Age_60_Female,16.6,NA
+United Republic of Tanzania,tz ,2010,Life Expectancy,At_Age_60_Female,16.5,NA
+United Republic of Tanzania,tz ,2009,Life Expectancy,At_Age_60_Female,16.5,NA
+United Republic of Tanzania,tz ,2008,Life Expectancy,At_Age_60_Female,16.4,NA
+United Republic of Tanzania,tz ,2007,Life Expectancy,At_Age_60_Female,16.2,NA
+United Republic of Tanzania,tz ,2006,Life Expectancy,At_Age_60_Female,16,NA
+United Republic of Tanzania,tz ,2005,Life Expectancy,At_Age_60_Female,15.9,NA
+United Republic of Tanzania,tz ,2004,Life Expectancy,At_Age_60_Female,15.8,NA
+United Republic of Tanzania,tz ,2003,Life Expectancy,At_Age_60_Female,15.6,NA
+United Republic of Tanzania,tz ,2002,Life Expectancy,At_Age_60_Female,15.6,NA
+United Republic of Tanzania,tz ,2001,Life Expectancy,At_Age_60_Female,15.5,NA
+United Republic of Tanzania,tz ,2000,Life Expectancy,At_Age_60_Female,15.4,NA

@@ -1,0 +1,715 @@
+[
+			{
+				"name": "West Equatoria",
+				"code": "SS-WE",
+				"Year":2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"value": 60, 
+				"Range": "NA"
+			},
+	
+			{
+				"name": "Central Equatoria",
+				"code": "SS-BG",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"value": 57, 
+				"Range": "NA"
+			},
+			{
+				"name": "Upper Nile",
+				"code": "SS-UN",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"value": 56, 
+				"Range": "NA"
+			},
+			{
+				"name": "Jonglei",
+				"code": "SS-JG",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"value": 60, 
+				"Range": "NA"
+			},
+			{
+				"name": "Unity",
+				"code": "SS-WH",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"value": 55, 
+			},
+			{
+				"name": "Warap",
+				"code": "SS-WR",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"value": 52, 
+			},
+			{
+				"name": "West Bahr-al-Ghazal",
+				"code": "SS-WB",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"value": 60, 
+			},
+			{
+				"name": "East Equatoria",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"code": "SS-EE",
+				"value": 65, 
+			},
+			{
+				"name": "North Bahr-al-Ghazal",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"code": "SS-NB",
+				"value": 64, 
+			},
+			{
+				"name": "Lakes",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"code": "SS-EB",
+				"value": 53, 
+			},
+			
+
+			{
+				"name": "West Equatoria",
+				"code": "SS-WE",
+				"Year":2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"value": 55, 
+				"Range": "NA"
+			},
+	
+			{
+				"name": "Central Equatoria",
+				"code": "SS-BG",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"value": 52, 
+				"Range": "NA"
+			},
+			{
+				"name": "Upper Nile",
+				"code": "SS-UN",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"value": 59, 
+				"Range": "NA"
+			},
+			{
+				"name": "Jonglei",
+				"code": "SS-JG",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"value": 65, 
+				"Range": "NA"
+			},
+			{
+				"name": "Unity",
+				"code": "SS-WH",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"value": 55, 
+			},
+			{
+				"name": "Warap",
+				"code": "SS-WR",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"value": 52, 
+			},
+			{
+				"name": "West Bahr-al-Ghazal",
+				"code": "SS-WB",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"value": 50, 
+			},
+			{
+				"name": "East Equatoria",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"code": "SS-EE",
+				"value": 55, 
+			},
+			{
+				"name": "North Bahr-al-Ghazal",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"code": "SS-NB",
+				"value": 54, 
+			},
+			{
+				"name": "Lakes",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Birth Both sexes",
+				"code": "SS-EB",
+				"value": 51, 
+			},
+
+
+			///////// New metric //////////////////////////
+			{
+				"name": "West Equatoria",
+				"code": "SS-WE",
+				"Year":2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 63, 
+				"Range": "NA"
+			},
+	
+			{
+				"name": "Central Equatoria",
+				"code": "SS-BG",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 67, 
+				"Range": "NA"
+			},
+			{
+				"name": "Upper Nile",
+				"code": "SS-UN",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 66, 
+				"Range": "NA"
+			},
+			{
+				"name": "Jonglei",
+				"code": "SS-JG",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 62, 
+				"Range": "NA"
+			},
+			{
+				"name": "Unity",
+				"code": "SS-WH",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 65, 
+			},
+			{
+				"name": "Warap",
+				"code": "SS-WR",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 62, 
+			},
+			{
+				"name": "West Bahr-al-Ghazal",
+				"code": "SS-WB",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 64, 
+			},
+			{
+				"name": "East Equatoria",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"code": "SS-EE",
+				"value": 66, 
+			},
+			{
+				"name": "North Bahr-al-Ghazal",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"code": "SS-NB",
+				"value": 64, 
+			},
+			{
+				"name": "Lakes",
+				"Year": 2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"code": "SS-EB",
+				"value": 58, 
+			},
+
+			{
+				"name": "West Equatoria",
+				"code": "SS-WE",
+				"Year":2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 53, 
+				"Range": "NA"
+			},
+	
+			{
+				"name": "Central Equatoria",
+				"code": "SS-BG",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 57, 
+				"Range": "NA"
+			},
+			{
+				"name": "Upper Nile",
+				"code": "SS-UN",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 56, 
+				"Range": "NA"
+			},
+			{
+				"name": "Jonglei",
+				"code": "SS-JG",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 52, 
+				"Range": "NA"
+			},
+			{
+				"name": "Unity",
+				"code": "SS-WH",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 55, 
+			},
+			{
+				"name": "Warap",
+				"code": "SS-WR",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 52, 
+			},
+			{
+				"name": "West Bahr-al-Ghazal",
+				"code": "SS-WB",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 54, 
+			},
+			{
+				"name": "East Equatoria",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"code": "SS-EE",
+				"value": 56, 
+			},
+			{
+				"name": "North Bahr-al-Ghazal",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"code": "SS-NB",
+				"value": 54, 
+			},
+			{
+				"name": "Lakes",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"code": "SS-EB",
+				"value": 57, 
+			},
+
+
+	///////// New Indicator //////////////////////////
+
+		{
+				"name": "West Equatoria",
+				"code": "SS-WE",
+				"Year":2015,
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1000, 
+				"Range": "NA"
+			},
+	
+			{
+				"name": "Central Equatoria",
+				"code": "SS-BG",
+				"Year": 2015,
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1200, 
+				"Range": "NA"
+			},
+			{
+				"name": "Upper Nile",
+				"code": "SS-UN",
+				"Year": 2015,
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1100, 
+				"Range": "NA"
+			},
+			{
+				"name": "Jonglei",
+				"code": "SS-JG",
+				"Year": 2015,
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1400, 
+				"Range": "NA"
+			},
+			{
+				"name": "Unity",
+				"code": "SS-WH",
+				"Year": 2015,
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1250, 
+				"Range": "NA"
+			},
+			{
+				"name": "Warap",
+				"code": "SS-WR",
+				"Year": 2015,
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1310, 
+				"Range": "NA",
+			},
+			{
+				"name": "West Bahr-al-Ghazal",
+				"code": "SS-WB",
+				"Year": 2015,
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1230, 
+				"Range": "NA"
+
+			},
+			{
+				"name": "East Equatoria",
+				"Year": 2015,
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1280, 
+				"Range": "NA",
+				"code": "SS-EE",
+			},
+			{
+				"name": "North Bahr-al-Ghazal",
+				"Year": 2015,
+				"code": "SS-NB",
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1400, 
+				"Range": "NA"
+
+			},
+			{
+				"name": "Lakes",
+				"Year": 2015,
+				"code": "SS-EB",
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1100, 
+				"Range": "NA"
+
+			},
+
+			{
+				"name": "West Equatoria",
+				"code": "SS-WE",
+				"Year":2014,
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 900, 
+				"Range": "NA"
+			},
+	
+			{
+				"name": "Central Equatoria",
+				"code": "SS-BG",
+				"Year": 2014,
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1100, 
+				"Range": "NA"
+			},
+			{
+				"name": "Upper Nile",
+				"code": "SS-UN",
+				"Year": 2014,
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1000, 
+				"Range": "NA"
+			},
+			{
+				"name": "Jonglei",
+				"code": "SS-JG",
+				"Year": 2014,
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1200, 
+				"Range": "NA"
+			},
+			{
+				"name": "Unity",
+				"code": "SS-WH",
+				"Year": 2014,
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1150, 
+				"Range": "NA"
+			},
+			{
+				"name": "Warap",
+				"code": "SS-WR",
+				"Year": 2014,
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1110, 
+				"Range": "NA",
+			},
+			{
+				"name": "West Bahr-al-Ghazal",
+				"code": "SS-WB",
+				"Year": 2014,
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1130, 
+				"Range": "NA"
+
+			},
+			{
+				"name": "East Equatoria",
+				"Year": 2014,
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1180, 
+				"Range": "NA",
+				"code": "SS-EE",
+			},
+			{
+				"name": "North Bahr-al-Ghazal",
+				"Year": 2014,
+				"code": "SS-NB",
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1200, 
+				"Range": "NA"
+
+			},
+			{
+				"name": "Lakes",
+				"Year": 2014,
+				"code": "SS-EB",
+				"indicator": "Malaria Mortality Rate",
+				"Metric": "Number of deaths",
+				"value": 1000, 
+				"Range": "NA"
+
+			},
+
+			///////// New metric //////////////////////////
+			{
+				"name": "West Equatoria",
+				"code": "SS-WE",
+				"Year":2015,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 63, 
+				"Range": "NA"
+			},
+	
+			{
+				"name": "Central Equatoria",
+				"code": "SS-BG",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 67, 
+				"Range": "NA"
+			},
+			{
+				"name": "Upper Nile",
+				"code": "SS-UN",
+				"Year": 2013,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 66, 
+				"Range": "NA"
+			},
+			{
+				"name": "Jonglei",
+				"code": "SS-JG",
+				"Year": 2012,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 62, 
+				"Range": "NA"
+			},
+			{
+				"name": "Unity",
+				"code": "SS-WH",
+				"Year": 2011,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 65, 
+			},
+			{
+				"name": "Warap",
+				"code": "SS-WR",
+				"Year": 2010,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 62, 
+			},
+			{
+				"name": "West Bahr-al-Ghazal",
+				"code": "SS-WB",
+				"Year": 2009,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 64, 
+			},
+			{
+				"name": "East Equatoria",
+				"Year": 2008,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"code": "SS-EE",
+				"value": 66, 
+			},
+			{
+				"name": "North Bahr-al-Ghazal",
+				"Year": 2007,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"code": "SS-NB",
+				"value": 64, 
+			},
+			{
+				"name": "Lakes",
+				"Year": 2006,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"code": "SS-EB",
+				"value": 58, 
+			},
+
+			{
+				"name": "West Equatoria",
+				"code": "SS-WE",
+				"Year":2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 57, 
+				"Range": "NA"
+			},
+	
+			{
+				"name": "Central Equatoria",
+				"code": "SS-BG",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 64, 
+				"Range": "NA"
+			},
+			{
+				"name": "Upper Nile",
+				"code": "SS-UN",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 62, 
+				"Range": "NA"
+			},
+			{
+				"name": "Jonglei",
+				"code": "SS-JG",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 61, 
+				"Range": "NA"
+			},
+			{
+				"name": "Unity",
+				"code": "SS-WH",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 62, 
+			},
+			{
+				"name": "Warap",
+				"code": "SS-WR",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 61, 
+			},
+			{
+				"name": "West Bahr-al-Ghazal",
+				"code": "SS-WB",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"value": 62, 
+			},
+			{
+				"name": "East Equatoria",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"code": "SS-EE",
+				"value": 62, 
+			},
+			{
+				"name": "North Bahr-al-Ghazal",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"code": "SS-NB",
+				"value": 62, 
+			},
+			{
+				"name": "Lakes",
+				"Year": 2014,
+				"indicator": "Life Expectancy",
+				"Metric": "At Age 60 Male",
+				"code": "SS-EB",
+				"value": 56, 
+			}
+			
+]

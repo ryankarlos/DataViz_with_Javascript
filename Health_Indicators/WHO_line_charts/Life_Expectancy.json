@@ -1,0 +1,5186 @@
+[
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 59.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 59.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 58.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 58,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 57.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 56.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 56.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 55.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 54.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 54.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 53.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 52.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 51.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 51.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 51.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 50.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 63.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 62.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 62.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 62.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 61.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 60.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 59.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 57.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 56.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 55.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 54.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 53,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 52.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 52.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 51.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 51.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 66.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 65.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 65.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 64.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 63.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 62.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 61,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 60.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 59.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 57.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 55.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 53.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 52,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 50.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 48.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 48.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 57.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 56.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 56.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 56,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 55.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 55,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 54.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 53.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 53.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 52.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 51.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 51.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 50.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 50.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 49.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 48.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 62.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 61.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 60.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 60,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 59.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 58.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 57.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 56.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 55.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 54.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 53.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 51.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 50.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 48.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 47.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 46.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 61.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 60.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 59.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 58.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 58.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 57.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 56.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 56.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 54.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 53.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 52.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 51.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 50.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 50.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 49.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Both_Sexes",
+    "Value": 49.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 57.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 57.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 56.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 56.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 55.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 55.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 54.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 53.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 53.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 52.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 51.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 50.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 50,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 49.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 49.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 48.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 61.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 60.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 60.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 60.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 59.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 58.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 57.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 56.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 55.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 54.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 53.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 52.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 51.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 51.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 50.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 50.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 60.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 60.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 60,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 59.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 58.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 57.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 55.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 55.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 54.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 52.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 50.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 48.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 47,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 45.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 43.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 43.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 56.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 55.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 55.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 55,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 54.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 54.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 53.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 52.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 52,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 51.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 50.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 50.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 49.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 49,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 48.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 47.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 60.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 59.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 59,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 58.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 58.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 57.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 56.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 55.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 54.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 53.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 51.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 49.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 48.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 47.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 46.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 45.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 59.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 58.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 57.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 56.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 56.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 56.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 55.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 55.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 53.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 52.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 51.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 50.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 50.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 49.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 48.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Male",
+    "Value": 48.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 61.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 61.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 60.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 59.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 59.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 58.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 57.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 57.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 56.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 55.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 55.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 54.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 53.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 53.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 53.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 53,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 65.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 65.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 65,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 64.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 62.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 61.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 60.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 59,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 57.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 56.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 54.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 53.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 53.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 53,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 52.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 53,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 71.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 70.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 70.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 69.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 69.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 68.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 66.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 66.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 65.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 63.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 60.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 58.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 57.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 56,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 54.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 53.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 58.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 58,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 57.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 57.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 56.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 56,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 55.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 54.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 54.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 53.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 53,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 52.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 52,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 51.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 50.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 50.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 64.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 63.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 62.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 61.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 60.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 59.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 58.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 57.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 56.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 56.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 54.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 52.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 51.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 50.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 49,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 48,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 63.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 62.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 61.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 60.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 59.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 58.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 57.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 57.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 55.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 53.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 52.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 52.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 51.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 50.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 50.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Birth_Female",
+    "Value": 50,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 18,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 18,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 17.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 17.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 17.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 17.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 17.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 17.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 17.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 17.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 17.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 17.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 17.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 17.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 17,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 16,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 15,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 14.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Both_Sexes",
+    "Value": 14.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 13.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 13.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 16,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 15.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Male",
+    "Value": 14.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Burundi",
+    "Code": "bi",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Kenya",
+    "Code": "ke",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 19.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 19.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 19.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 19.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 19.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 19.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 19.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 19.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 19,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 18.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 18.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 18.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 18.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 18.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 18.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Code": "rw",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 18,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 15.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 15.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Code": "ss",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 15.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.3,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "Uganda",
+    "Code": "ug",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2015,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17.1,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2014,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 17,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2013,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2012,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.7,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2011,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2010,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2009,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2008,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.4,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2007,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16.2,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2006,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 16,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2005,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 15.9,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2004,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 15.8,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2003,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 15.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2002,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 15.6,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2001,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 15.5,
+    "Range": "NA"
+  },
+  {
+    "Country_Name": "United Republic of Tanzania",
+    "Code": "tz",
+    "Year": 2000,
+    "Indicator": "Life Expectancy",
+    "Metric": "At_Age_60_Female",
+    "Value": 15.4,
+    "Range": "NA"
+  }
+]
