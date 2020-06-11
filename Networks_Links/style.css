@@ -1,0 +1,370 @@
+html,body {
+   height: 100%;
+   width: 100%;
+}
+
+
+#title {
+	position: absolute;
+	top: 0%;
+	left:0%;
+	right:0%;
+   height:10%;
+   width: 100%;
+	 background-color: black;
+}
+
+
+#title-header {
+	font-family: Roboto;
+	text-align: center;
+  font-size: 1.8rem;
+	height: 100%;
+	color: white;
+}
+
+
+#button{
+	position: absolute;
+	top: 10%;
+	left: 35%;
+	width: 20%;
+	height: 8%;
+	margin:auto
+}
+
+#container-map{
+		position: absolute;
+		 left:0%;
+		 right:0%;
+		 top: 10%;
+	   width: 100%;
+		height: 180%;
+		background:linear-gradient(to bottom, #cccccc, #cccccc, white, white);">
+	}
+
+
+
+.button1 {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+		margin-right: 0px;
+    display: inline-block;
+		text-align: center;
+    font-size: 16px;
+		top:11%;
+    cursor: pointer;
+}
+
+.button2 {
+    background-color: #f44336;;
+    border: none;
+    color: white;
+    text-align: center;
+		padding: 15px 32px;
+    font-size: 16px;
+		top:11%;
+    cursor: pointer;
+}
+
+.button1:hover {
+    background-color: grey; /* Green */
+}
+
+.button2:hover {
+    background-color: grey; /* Green */
+}
+
+#tweet-time {
+	position: absolute;
+	 left:15%;
+		top: 25%;
+		width: 70%;
+		height: 60%;
+}
+
+#tweet-time-title {
+	position:absolute;
+	  top: 8%;
+		left:30%;
+    width: 40%;
+		height: 3%;
+		color: black;
+}
+
+
+#map {
+	position: absolute;
+	 left: 2%;
+	 right: 45%;
+	  top:13%;
+    width: 80%;
+		height: 50%;
+}
+
+#map-title {
+	position:absolute;
+	  top: 8%;
+		left:30%;
+    width: 40%;
+		height: 3%;
+		color: black;
+}
+
+
+#bar {
+	  position:absolute;
+		bottom: 1%;
+		left: 13%;
+    width: 70%;
+		height: 33%;
+		margin:0 auto
+
+}
+
+#legend{
+	position:absolute;
+	top: 10%;
+	left: 10%;
+		width: 3.7%;
+		height: 10%;
+  vertical-align: top;
+        }
+
+#legend-title{
+		position:absolute;
+			top: 8%;
+			left: 10%;
+			width: 5%;
+			height: 4%;
+	  vertical-align: top;
+	        }
+
+#opts{
+	position:absolute;
+	bottom: 25%;
+	left:4%;
+	width: 4%;
+	height: 3%;
+	font-size: 40px;
+}
+
+#path {
+  fill: grey;
+  stroke: white;
+  stroke-width: .5px;
+}
+
+#path:hover {
+  fill: red;
+}
+
+.stroke {
+  fill: none;
+  stroke: #fff7bc;
+  stroke-width: 3px;
+}
+
+.land {
+  fill: #222;
+}
+
+.boundary {
+  fill: none;
+  stroke: #fff;
+  stroke-width: .5px;
+}
+
+.arc {
+  fill: none;
+  stroke: black;
+  stroke-width: 8px;
+  stroke-linecap: round;
+}
+
+
+.bar {
+  fill: #0080FF
+}
+
+.bar:hover {
+  fill: #003366
+}
+
+.text {
+  fill: black;
+  font-family: sans-serif;
+	font-weight: bold;
+	font-size: 35px;
+}
+
+
+
+.ticks {
+      font-size: 10px;
+    }
+
+
+div.tooltip {
+		position: absolute;
+		text-align: center;
+		width: 30%;
+		height: 25%;
+		padding: 2px;
+		font: 12px sans-serif;
+		background: lightsteelblue;
+		border: 0px;
+		border-radius: 8px;
+		pointer-events: none;
+}
+
+/* Tooltip CSS */
+ .d3-tip {
+ line-height: 1.5;
+ font-weight: 400;
+ font-family:"avenir next", Arial, sans-serif;
+ padding: 6px;
+ background: rgba(0, 0, 0, 0.6);
+ color: #FFA500;
+ border-radius: 1px;
+ pointer-events: none;
+ }
+
+ /* Creates a small triangle extender for the tooltip */
+ .d3-tip:after {
+   box-sizing: border-box;
+   display: inline;
+   font-size: 8px;
+   width: 100%;
+   line-height: 1.5;
+   color: rgba(0, 0, 0, 0.6);
+   position: absolute;
+   pointer-events: none;
+
+ }
+ /* Northward tooltips */
+ .d3-tip.n:after {
+   content: "\25BC";
+   margin: -1px 0 0 0;
+   top: 50%;
+   left: 0;
+   text-align: center;
+ }
+
+#vis{
+		height: 5%;
+		width: 24%;
+		right: 2%;
+		top: 6%;
+		position:absolute;
+}
+
+#slider {
+	position: absolute;
+  top: 10%;
+  height: 2%;
+  width: 20%;
+  right:5%;
+}
+
+.ui-slider .ui-slider-handle {
+			width: 2.2em !important;
+			height: 120% !important;
+			background-color: orange;
+}
+
+.legend {
+      padding: 5px;
+      font: 10px sans-serif;
+      background: yellow;
+      box-shadow: 2px 2px 1px #888;
+  }
+
+#Month {
+	  position: absolute;
+		top: 13%;
+		right: 11%;
+		font-size: 20px;
+}
+
+#selectedMonth {
+    color: red;
+    font-weight: bold;
+		font-size: 20px;
+}
+
+  #play-button{
+  background: #f08080;
+  padding-right:1%;
+  border-radius: 3px;
+  border:none;
+  color:white;
+  margin-right: 15px;
+  padding: 0 12px;
+  width:17%;
+  cursor:pointer;
+  height:50%;
+  font-size: 13px;
+  }
+
+
+#play-button:hover {
+      background-color: #696969;
+}
+
+#pause-button {
+      background: #f08080;
+      padding-right: 1%;
+      border-radius: 3px;
+      border: none;
+      color: white;
+      padding: 0 12px;
+			margin-right: 15px;
+      width: 18%;
+      cursor: pointer;
+      height:50%;
+      font-size: 13px;
+}
+
+#pause-button:hover {
+      background-color: #696969;
+
+}
+
+#stop-button{
+      background: #f08080;
+      padding-right: 1%;
+      border-radius: 3px;
+      border: none;
+      color: white;
+      padding: 0 12px;
+      width:17%;
+      cursor: pointer;
+      height:50%;
+      font-size: 13px;
+}
+
+#stop-button:hover{
+      background-color: #696969;
+
+}
+
+#zoom-button{
+background: #f08080;
+border-radius: 3px;
+border:none;
+color:white;
+margin-right: 15px;
+padding: 0 12px;
+width:22%;
+cursor:pointer;
+height:50%;
+font-size: 13px;
+}
+
+
+#zoom-button:hover {
+      background-color: #696969;
+    }
