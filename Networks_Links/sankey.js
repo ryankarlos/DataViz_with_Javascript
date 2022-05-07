@@ -295,18 +295,18 @@ d3.sankey = function() {
 ///// Setting the nodes and importing the data ////////////////////////
 
 var units = "Pounds";
-    width = 500
+    width = 900
     height = 950
 var formatNumber = d3.format(",.0f"),    // zero decimal places
     format = function(d) { return formatNumber(d) + " " + units; },
     color = d3.scale.category20();
 // append the svg canvas to the page
-var svg = d3.select("#vis").append("svg")
+var svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height)
   .append("g")
     .attr("transform",
-          "translate(" + -5 + "," + 0 + ")");
+          "translate(" + 20 + "," + -50 + ")");
 // Set the sankey diagram properties
 var sankey = d3.sankey()
     .nodeWidth(36)

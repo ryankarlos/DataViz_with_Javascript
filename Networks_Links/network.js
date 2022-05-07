@@ -2,7 +2,7 @@
 var network_width = 1000,
     network_height = 1000;
 
-var network_svg = d3.select("#vis").append("svg")
+var network_svg = d3.select("body").append("svg")
         .attr("width", network_width)
         .attr("height", network_height)
         .append("g")
