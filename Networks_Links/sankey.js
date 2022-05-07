@@ -295,7 +295,7 @@ d3.sankey = function() {
 ///// Setting the nodes and importing the data ////////////////////////
 
 var units = "Pounds";
-    width = 900
+    width = 600
     height = 950
 var formatNumber = d3.format(",.0f"),    // zero decimal places
     format = function(d) { return formatNumber(d) + " " + units; },

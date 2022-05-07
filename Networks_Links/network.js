@@ -1,5 +1,5 @@
 
-var network_width = 1000,
+var network_width = 900,
     network_height = 1000;
 
 var network_svg = d3.select("body").append("svg")

@@ -9,7 +9,7 @@ body{
 }
 
 .header h1 {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 /* Style the top navigation bar */
@@ -34,7 +34,7 @@ body{
 
 .selection {
   height: 100px;
-  padding: 25px 50px 75px 100px;
+  padding: 25px 50px 55px 50px;
   color:black;
   background-color:#F0F8FF
 }
@@ -51,16 +51,14 @@ body{
 
 .sunrise_label {
   height: 30px;
-   padding: 25px 50px 45px 200px;
+   padding: 25px 30px 45px 10px;
 }
 
 .sunrise {
   height: 200px;
-   padding: 15px 30px 45px 200px;
+   padding: 15px 30px 45px 10px;
     left:400px;
-    top: 350px;
 }
-
 
 .node rect {
   cursor: move;
