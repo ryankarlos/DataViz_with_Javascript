@@ -1,12 +1,7 @@
-# 360Giving Data Visualisation Challenge - Part 2
+# 360Giving Data Visualisation Challenge
 This work was part of the Data Visualisation Challenge hosted by 360Giving https://challenge.threesixtygiving.org/. It looks to answer the following question posed by a panel of experts in the grantmaking sector: <i>User-led organisations: Who funds them, in what thematic area, how much funding do they receive and what type of organisation are they (e.g. CIC, charity, co-operative, community group)? </i>
 
 A snapshot of the visualisation is shown below. The link to the Interactive visualisation can be found found <a href = "https://ryankarlos.github.io/GrantNav_Challenge2/">here</a>
-
-<p>
-    <img src="https://github.com/ryankarlos/GrantNav_Challenge2/blob/gh-pages/screenshot.jpg" width="1000" height="800" />
-</p>
-
 
 ## DATA COLLECTION AND CLEANING 
 
