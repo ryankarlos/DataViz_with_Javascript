@@ -5,10 +5,10 @@ The visualisation can be accessed <a href = https://ryankarlos.github.io/TweetsV
 <br>
 <br>
 <p>
-<img src="https://github.com/ryankarlos/DataViz_with_Javascript/SnakebiteViz/blob/master/snapshot_snakebiteviz_home.png" height = 500px width = 1000px>
+<img src="https://github.com/ryankarlos/DataViz_with_Javascript/blob/master/Snakebite_Viz/snapshot_snakebiteviz_home.png" height = 500px width = 1000px>
 </p>
 <br>
 <br>
 <p>
-<img src= "https://github.com/ryankarlos/DataViz_with_Javascript/SnakebiteViz/blob/master/snapshot_snakebiteviz_LDA.png" height = 500px width = 1000px>
+<img src= "https://github.com/ryankarlos/DataViz_with_Javascript/blob/master/Snakebite_Viz/snapshot_snakebiteviz_LDA.png" height = 500px width = 1000px>
 </p>
